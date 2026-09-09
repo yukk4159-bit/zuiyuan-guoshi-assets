@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "cardId": "zuiyuan-guoshi",
+  "release": "v1.0.3",
+  "assets": [
+    {
+      "id": "duan-qingluan-formal",
+      "kind": "image",
+      "source": { "type": "local", "path": "portraits/duan-qingluan-v2.webp" },
+      "bytes": 200884,
+      "sha256": "0cf5c6475014dda621598068813d8894dc44d0935726b34f15e3e0da22714287",
+      "preload": "lazy",
+      "lifetime": "message",
+      "fallbackAssetId": null
+    },
+    {
+      "id": "duan-qingluan-private",
+      "kind": "image",
+      "source": { "type": "local", "path": "portraits/duan-qingluan-private-v2.webp" },
+      "bytes": 185486,
+      "sha256": "216fa71330144dabe4c148f4eefeda9ebea6460f725e33804efbaed17a6ad3d6",
+      "preload": "lazy",
+      "lifetime": "message",
+      "fallbackAssetId": null
+    },
+    {
+      "id": "zhao-jiaojiao-daily",
+      "kind": "image",
+      "source": { "type": "local", "path": "portraits/zhao-jiaojiao.webp" },
+      "bytes": 212772,
+      "sha256": "371f20bdb6c4039fb305e635991f091f5b4586c68d3a8bd9876364c5055b4f2a",
+      "preload": "lazy",
+      "lifetime": "message",
+      "fallbackAssetId": null
+    },
+    {
+      "id": "zhao-jiaojiao-formal",
+      "kind": "image",
+      "source": { "type": "local", "path": "portraits/zhao-jiaojiao-formal.webp" },
+      "bytes": 241500,
+      "sha256": "87979dd1375fa550a1b4cfd94825e4adf8afb7e5112de9a58b816cd5c8b8930a",
+      "preload": "lazy",
+      "lifetime": "message",
+      "fallbackAssetId": null
+    },
+    {
+      "id": "xiao-chuo-formal",
+      "kind": "image",
+      "source": { "type": "local", "path": "portraits/xiao-chuo-formal-v2.webp" },
+      "bytes": 268882,
+      "sha256": "aa3e6a753c035e5dfff4f9e78307f15954e308ed1c62eca2a1befdb94fb56799",
+      "preload": "lazy",
+      "lifetime": "message",
+      "fallbackAssetId": null
+    },
+    {
+      "id": "xiao-chuo-regency",
+      "kind": "image",
+      "source": { "type": "local", "path": "portraits/xiao-chuo-regency-v2.webp" },
+      "bytes": 297032,
+      "sha256": "5c60480784ee1a70d20a2a6ae83641b662786fef96c5399467d524c95e084001",
+      "preload": "lazy",
+      "lifetime": "message",
+      "fallbackAssetId": null
+    }
+  ]
+}
