@@ -1,0 +1,68 @@
+{
+  "cardId": "wilderness-survival",
+  "version": "1.2.2",
+  "generatedArtwork": true,
+  "rights": "保留所有权利；未经作者许可不得再分发或用于其他项目",
+  "assets": [
+    {
+      "id": "lin-mengxi",
+      "name": "林梦曦",
+      "file": "lin-mengxi.webp",
+      "bytes": 258936,
+      "sha256": "6c6e94edaa6650081c6b1601d3ca0ef486a0f329f6b435935c06c07ef3651612",
+      "resolution": [
+        1086,
+        1448
+      ],
+      "codec": "WebP quality 95, original resolution, exact alpha"
+    },
+    {
+      "id": "tong-ya",
+      "name": "童雅",
+      "file": "tong-ya.webp",
+      "bytes": 267804,
+      "sha256": "4c93958a82ae9b9b49a8df29ffcb922520e295d583f96d5f34407dca163db3d0",
+      "resolution": [
+        1086,
+        1448
+      ],
+      "codec": "WebP quality 95, original resolution, exact alpha"
+    },
+    {
+      "id": "li-lili",
+      "name": "李丽丽",
+      "file": "li-lili.webp",
+      "bytes": 262628,
+      "sha256": "5423211c583e5b7d4d3fce09231f8f1562be9672c15f3d7ec159f92c2b41a357",
+      "resolution": [
+        1086,
+        1448
+      ],
+      "codec": "WebP quality 95, original resolution, exact alpha"
+    },
+    {
+      "id": "yan-huan",
+      "name": "言欢",
+      "file": "yan-huan.webp",
+      "bytes": 263410,
+      "sha256": "27de82b30704adf13baa0bf6147a015688a4d08bfa4e3b9ce8ca0dd502156843",
+      "resolution": [
+        1086,
+        1448
+      ],
+      "codec": "WebP quality 95, original resolution, exact alpha"
+    },
+    {
+      "id": "mist-background",
+      "name": "柔雾背景",
+      "file": "mist-background.webp",
+      "bytes": 224226,
+      "sha256": "15ec29cc574285cfd751929ff6c2c26fcda5cc9dbe0a2479b5c50555a0b8689c",
+      "resolution": [
+        1448,
+        1086
+      ],
+      "codec": "WebP quality 95, original resolution, exact alpha"
+    }
+  ]
+}
